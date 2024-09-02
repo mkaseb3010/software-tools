@@ -1,5 +1,5 @@
-# EECS2031
-Software Tools
+# Software Tools
+EECS2031
 
 Codes that consist of a mix of assembly using RISCV and Verilog programming, dynamically focusing on memory, bits, and the CPU function of a computer and how all commands are taken, and how fast they are calculated.
 
